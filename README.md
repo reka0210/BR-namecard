@@ -1,2 +1,2 @@
-# BRnamecard
+# BR-namecard
 saját névjegykártyám
