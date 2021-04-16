@@ -38,7 +38,6 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    font-family: sans-serif;
     display: flex;
     font-family: verdana;
   }
@@ -107,13 +106,13 @@
     transform-style: preserve-3d;
   }
 
-  .prog-img:after {
-    top: -100%;
-    left: 0px;
-    width: 100%;
-    position: absolute;
-  }
-
   .prog-img:hover {
   transform: skew(-10deg);
+}
+
+p {
+ font-weight:normal;
+ font-size: 17px;
+ margin-top: 2px;
+ text-shadow:-1px -2px 16px #ffffff;
 }
